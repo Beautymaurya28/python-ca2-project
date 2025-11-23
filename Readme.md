@@ -1,3 +1,19 @@
+# to start the pipoo: 
+## venv: python -m venv venv
+## activate this: .\venv\Scripts\activate
+## and then install lib: pip install -r requiremnts.txt
+## the most improtant: before to start the pipoo for api create .env file: and in this...write your api keys: 
+```
+GEMINI_API_KEY=
+ASSISTANT_NAME=Pipoo
+SPEECH_RATE=170
+VOICE_GENDER=female
+```
+
+## in the last run python src/main.py
+## enjoy the basic version of pipoo 1.0...Taddaaaa!
+
+
 # 📝 Pipoo Notes & Reminders - Complete Guide
 
 ## 🎯 Three Core Features
@@ -463,4 +479,5 @@ Try these commands right now:
 ---
 
 **Made with ❤️ for staying organized!**
+
 *Pipoo - Your Personal Note-Taking Assistant* 🤖📝
